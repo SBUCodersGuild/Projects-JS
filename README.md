@@ -1,3 +1,27 @@
+Coders' Guild Mega Project List: Collaborative Solutions
+========================================================
+
+This is the Coders' Guild's collaborative solution repositories, in preparation
+for upcoming [Unhackathons](http://unhackathon.org). Users are free to submit
+solutions via pull requests to this repository - they *will* be scrutinized
+incredibly deeply because we aim to have users improve their coding skills.
+
+Each repository has its own language (see repo name for the language). In each
+language, we have students in the guild that will accept any pull request that
+you put, providing critical feedback on your coding skills and also suggesting
+new ways for you to improve. We're aiming to have this a "learn together" style
+repository.
+
+Since Github doesn't allow multiple forking, the original is located at
+[karan/Projects](https://github.com/karan/Projects). We merge in updates
+regularly from upstream as to give our users more challenges.
+
+#### Why each language in their own repo?
+This was a really weird decision, and we decided that we wanted it this way
+because we want Ruby people to look at Ruby pull requests, and JS people to
+look at JS pull requests, etc... Also because some people would merge blindly
+and we don't want that.
+
 Mega Project List
 ========
 
